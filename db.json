@@ -2,18 +2,18 @@
   "investors": [
     {
       "id": 1,
-      "firstName": "Charl"
-      "lastName": "Marais"
-      "idNumber": "7711195001081"
-      "email": "charl@nml.co.za"
+      "firstName": "Charl",
+      "lastName": "Marais",
+      "idNumber": "7711195001081",
+      "email": "charl@nml.co.za",
       "mobile": "+27834692724"
     },
     {
       "id": 2,
-      "firstName": "Paul"
-      "lastName": "Cartmel"
-      "idNumber": "7711195001085"
-      "email": "charl@nml.co.za"
+      "firstName": "Paul",
+      "lastName": "Cartmel",
+      "idNumber": "7711195001085",
+      "email": "charl@nml.co.za",
       "mobile": "+27834692724"
     }
   ],
