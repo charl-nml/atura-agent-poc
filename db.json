@@ -1,11 +1,29 @@
 {
-  "posts": [
+  "investors": [
     {
       "id": 1,
-      "title": "hello"
+      "firstName": "Charl"
+      "lastName": "Marais"
+      "idNumber": "7711195001081"
+      "email": "charl@nml.co.za"
+      "mobile": "+27834692724"
+    },
+    {
+      "id": 2,
+      "firstName": "Paul"
+      "lastName": "Cartmel"
+      "idNumber": "7711195001085"
+      "email": "charl@nml.co.za"
+      "mobile": "+27834692724"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "portfolios": [
+    {
+      "investorId": 1,
+      "balance": 1234567.89
+    },{
+      "investorId": 2,
+      "balance": 2345678.90
+    }
+  ]
 }
