@@ -4,7 +4,7 @@
       "id": 1,
       "firstName": "Charl",
       "lastName": "Marais",
-      "idNumber": "7711195001081",
+      "idNumber": "1234",
       "email": "charl@nml.co.za",
       "mobile": "+27834692724"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "firstName": "Paul",
       "lastName": "Cartmel",
-      "idNumber": "7401055122082",
+      "idNumber": "2345",
       "email": "paul@nml.co.za",
       "mobile": "+27832346965"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "firstName": "Ryan",
       "lastName": "Barlow",
-      "idNumber": "7702225518087",
+      "idNumber": "3456",
       "email": "ryanb@nml.co.za",
       "mobile": "+27824401746"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "firstName": "Kirsten",
       "lastName": "Manthey",
-      "idNumber": "8810210122085",
+      "idNumber": "4567",
       "email": "kirsten@nml.co.za",
       "mobile": "+27837999961"
     }
